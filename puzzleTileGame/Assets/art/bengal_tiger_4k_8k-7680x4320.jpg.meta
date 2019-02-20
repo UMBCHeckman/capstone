@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: c6bcb156c88c0b94aa2f7e340488c575
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bengal_tiger_4k_8k-7680x4320_0
+    21300002: bengal_tiger_4k_8k-7680x4320_1
+    21300004: bengal_tiger_4k_8k-7680x4320_2
+    21300006: bengal_tiger_4k_8k-7680x4320_3
+    21300008: bengal_tiger_4k_8k-7680x4320_4
+    21300010: bengal_tiger_4k_8k-7680x4320_5
+    21300012: bengal_tiger_4k_8k-7680x4320_6
+    21300014: bengal_tiger_4k_8k-7680x4320_7
+    21300016: bengal_tiger_4k_8k-7680x4320_8
+    21300018: bengal_tiger_4k_8k-7680x4320_9
+    21300020: bengal_tiger_4k_8k-7680x4320_10
+    21300022: bengal_tiger_4k_8k-7680x4320_11
+    21300024: bengal_tiger_4k_8k-7680x4320_12
+    21300026: bengal_tiger_4k_8k-7680x4320_13
+    21300028: bengal_tiger_4k_8k-7680x4320_14
+    21300030: bengal_tiger_4k_8k-7680x4320_15
+    21300032: bengal_tiger_4k_8k-7680x4320_16
+    21300034: bengal_tiger_4k_8k-7680x4320_17
+    21300036: bengal_tiger_4k_8k-7680x4320_18
+    21300038: bengal_tiger_4k_8k-7680x4320_19
+    21300040: bengal_tiger_4k_8k-7680x4320_20
+    21300042: bengal_tiger_4k_8k-7680x4320_21
+    21300044: bengal_tiger_4k_8k-7680x4320_22
+    21300046: bengal_tiger_4k_8k-7680x4320_23
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a306fd403a75a4e8474fee6ce93a14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3240
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb93a999860b3d489faa3e4943be2ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3240
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee138ee8f975054482177548df5bd37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_3
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3240
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2937b0ad8d61e434eb3b6a1da9952017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_4
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3240
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb3bc26cf935814ab607819a4b9520d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_5
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3240
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f78ffe6f429694da55a6635d50d5ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbfd199bb6cb8245ba250752b138ba1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_7
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2160
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a130869c33d3f4d47824f5f66ed4c2ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_8
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2160
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3680bd7cdf1fea47a8eaeb8d640744b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_9
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2160
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f5e27c8aaac6f42afefd940843dc4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_10
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2160
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb88ab0d9a8d0f249a91cc49fde5c741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_11
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2160
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e77df7a21cc9a4cb6f157049b43199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106d4b2e64858ea4f9d8a4d016a52188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1080
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05dcc7ad67e0b249890420b64ee005b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_14
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1080
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229097334f674974188dc5cd3e3dd15d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1080
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1474e52c9e08c824f98a09c623704b50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_16
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1080
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a12d351cbb0694429bd1711c3b06f2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_17
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1080
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927983a0d4b9cf04294e2b6d2dc41e67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c9e222c2822c4469faed43547089c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e31de6f94f3794a8b76ec268a503fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b089ffd137e68594c8f8effdf4ab0b37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_21
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c207bada7899c344cb444fc62454a668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_22
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ba914ea42c4b84aa21ac1f2c68f3d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bengal_tiger_4k_8k-7680x4320_23
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 1280
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250ea048cf89c8b49b0429822b40c4e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0a8da34e7bfeb044fb2136d776f81a98
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
